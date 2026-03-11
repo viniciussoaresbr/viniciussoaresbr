@@ -1,16 +1,24 @@
-# Olá, me chamo Vinicius Soares
+# 👋 Olá, eu sou Vinicius Soares
 
-Gosto de desafios e adoro aprender novas tecnologias para aprimorar meus conhecimentos. 
-Estou sempre à procura de oportunidades para aplicar meus conhecimentos em projetos interessantes. 
-Busco sempre melhorias e novas formas de desenvolvimento, sejam elas pessoais ou profissionais.
+💻 Desenvolvedor **Full Stack** especialista em sistemas de alta disponibilidade. Com vasta
+experiência em projetos escaláveis, foco minha atuação na entrega de códigos
+sustentáveis e interfaces intuitivas que elevam a experiência do usuário.
 
-## Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" /></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" /></a> <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /></a>     <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /></a> <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" /></a> <a href="https://angular.io/start" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" /></a> <a href="https://nodejs.org/en/docs/guides/getting-started-guide/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" /></a> <a href="https://expressjs.com/pt-br/guide/routing.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="30" height="30" /></a>
+<div align="center">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+</div>
 
-          
-          
-          
-          
-          
-          
+## 📫 Contato
+
+- LinkedIn: *https://www.linkedin.com/in/vinicius-soares-57164b214/*
+- Email: viniciussoaresmbr@gmail.com
